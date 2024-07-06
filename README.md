@@ -18,28 +18,28 @@ In this repository, you will find a collection of machine learning projects impl
 Below is a list of projects included in this repository:
 
 1. **Diabetes Prediction Model**
-   - Description: This project uses a Support Vector Machine (SVM) classifier from scikit-learn to predict whether a person has diabetes based on specific health metrics. We achieved an accuracy of 76%.
+   - Description: This project uses an SVM classifier to predict whether a person has diabetes based on specific health metrics.
    - YouTube Tutorial: [Link to the YouTube tutorial](https://www.youtube.com/watch?v=xUE7SjVx9bQ&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=2&pp=iAQB)
    - Files: `diabetes_prediction_model/`
 
 2. **Fake News Prediction Model**
    - Description: This project involves building a model to classify news articles as real or fake using natural language processing techniques.
-   - YouTube Tutorial: [Link to the YouTube tutorial]
+   - YouTube Tutorial: [Link to the YouTube tutorial](https://www.youtube.com/watch?v=nacLBdyG6jE&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=4&pp=iAQB)
    - Files: `fake_news_prediction_model/`
 
 3. **House Price Prediction Model**
    - Description: This project predicts house prices based on various features such as location, size, and number of bedrooms using regression techniques.
-   - YouTube Tutorial: [Link to the YouTube tutorial]
+   - YouTube Tutorial: [Link to the YouTube tutorial](https://www.youtube.com/watch?v=fw5rkjq4Tfo&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=3&pp=iAQB)
    - Files: `house_price_prediction_model/`
 
 4. **Loan Status Prediction Model**
    - Description: This project predicts the status of a loan application (approved or rejected) based on applicant data using classification algorithms.
-   - YouTube Tutorial: [Link to the YouTube tutorial]
+   - YouTube Tutorial: [Link to the YouTube tutorial](https://www.youtube.com/watch?v=XckM1pFgZmg&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=5&pp=iAQB)
    - Files: `loan_status_prediction_model/`
 
 5. **Model for Customer Segmentation**
    - Description: This project segments customers into distinct groups based on their purchasing behavior using clustering techniques.
-   - YouTube Tutorial: [Link to the YouTube tutorial]
+   - YouTube Tutorial: [Link to the YouTube tutorial](https://www.youtube.com/watch?v=SrY0sTJchHE&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=13&pp=iAQB)
    - Files: `customer_segmentation_model/`
 
 ## Contributing
