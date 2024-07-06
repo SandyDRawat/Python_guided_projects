@@ -20,7 +20,7 @@ Below is a list of projects included in this repository:
 1. **Diabetes Prediction Model**
    - Description: This project uses a Support Vector Machine (SVM) classifier from scikit-learn to predict whether a person has diabetes based on specific health metrics. We achieved an accuracy of 76%.
    - YouTube Tutorial: [Link to the YouTube tutorial](https://www.youtube.com/watch?v=xUE7SjVx9bQ&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=2&pp=iAQB)
-   - Files: `python_guided_project/diabetes_prediction_model/`
+   - Files: `diabetes_prediction_model/`
 
 2. **Fake News Prediction Model**
    - Description: This project involves building a model to classify news articles as real or fake using natural language processing techniques.
