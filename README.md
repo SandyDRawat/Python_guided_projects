@@ -17,17 +17,30 @@ In this repository, you will find a collection of machine learning projects impl
 
 Below is a list of projects included in this repository:
 
-1. **Project 1: [Project Title]**
-   - Description: Brief description of the project.
+1. **Diabetes Prediction Model**
+   - Description: This project uses various machine learning algorithms to predict whether a person has diabetes based on specific health metrics.
    - YouTube Tutorial: [Link to the YouTube tutorial]
-   - Files: List of files related to the project
+   - Files: `diabetes_prediction_model/`
 
-2. **Project 2: [Project Title]**
-   - Description: Brief description of the project.
+2. **Fake News Prediction Model**
+   - Description: This project involves building a model to classify news articles as real or fake using natural language processing techniques.
    - YouTube Tutorial: [Link to the YouTube tutorial]
-   - Files: List of files related to the project
+   - Files: `fake_news_prediction_model/`
 
-(Repeat for additional projects)
+3. **House Price Prediction Model**
+   - Description: This project predicts house prices based on various features such as location, size, and number of bedrooms using regression techniques.
+   - YouTube Tutorial: [Link to the YouTube tutorial]
+   - Files: `house_price_prediction_model/`
+
+4. **Loan Status Prediction Model**
+   - Description: This project predicts the status of a loan application (approved or rejected) based on applicant data using classification algorithms.
+   - YouTube Tutorial: [Link to the YouTube tutorial]
+   - Files: `loan_status_prediction_model/`
+
+5. **Model for Customer Segmentation**
+   - Description: This project segments customers into distinct groups based on their purchasing behavior using clustering techniques.
+   - YouTube Tutorial: [Link to the YouTube tutorial]
+   - Files: `customer_segmentation_model/`
 
 ## Contributing
 
